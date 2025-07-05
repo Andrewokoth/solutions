@@ -1,0 +1,4 @@
+com\vu\exhibition\model\Participant.class
+com\vu\exhibition\controller\DatabaseController.class
+com\vu\exhibition\view\RegistrationForm.class
+com\vu\exhibition\Main.class
